@@ -1,1 +1,0 @@
-# Quarty-Hub
