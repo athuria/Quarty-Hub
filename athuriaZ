@@ -1,4 +1,4 @@
-repeat wait(12) until game:IsLoaded()
+repeat wait(0) until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/athuria/mukuro-bf/master/athuriaZ?token=GHSAT0AAAAAABZLHLUH5I7T6D4C53RCBTH4YZVOKHA")()
