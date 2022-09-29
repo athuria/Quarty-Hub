@@ -1,7 +1,7 @@
 repeat wait(0) until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/athuria/mukuro-bf/master/athuriaZ?token=GHSAT0AAAAAABZLHLUH5I7T6D4C53RCBTH4YZVOKHA")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/athuria/mukuro-bf/master/athuriaZ")()
 elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/athuria/mukuro-kl/master/athuriaZ?token=GHSAT0AAAAAABZLHLUHYF3FZUF2ZOQCJLBSYZVONAA")()
 elseif PlaceId == 537413528 then
